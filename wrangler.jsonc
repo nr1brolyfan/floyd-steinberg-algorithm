@@ -1,0 +1,6 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "floyd-steinberg-algorithm",
+	"pages_build_output_dir": "build",
+	"compatibility_date": "2025-03-13"
+}
